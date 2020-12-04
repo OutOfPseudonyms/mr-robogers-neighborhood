@@ -1,12 +1,12 @@
-# _{Application Name}_
+# Mr. Roboger's Neighborhood
 
-#### _{Brief description of application}, {Date of current version}_
+#### Counts up to a number while replacing certain numbers, 12-3-2020
 
 #### By _**Patrick Swaney**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+The application will count up from "0" to the number the user has entered, replacing all numbers containing a 1 with "Beep!" and all numbers containg a "2" with "Boop!!" and all numbers containg a "3" with "Won't you be my neighbor?!!!"
 
 ## Setup/Installation Requirements
 
